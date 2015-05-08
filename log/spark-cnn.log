@@ -1,0 +1,16 @@
+[CS61C Project 4] start classifier training
+iteration: 0, loss: 38.222992, time: 43.361976 sec
+iteration: 1, loss: 38.146752, time: 45.786612 sec
+iteration: 2, loss: 38.002746, time: 46.498467 sec
+iteration: 3, loss: 37.798410, time: 46.492440 sec
+iteration: 4, loss: 37.540736, time: 46.213513 sec
+iteration: 5, loss: 37.236080, time: 32.969215 sec
+iteration: 6, loss: 36.890445, time: 44.617529 sec
+iteration: 7, loss: 36.509256, time: 46.511871 sec
+iteration: 8, loss: 36.097257, time: 45.815591 sec
+iteration: 9, loss: 35.658877, time: 40.459189 sec
+[CS61C Project 4] done training
+[CS61C Project 4] test the classifier
+[CS61C Project 4] accuracy: 0.76
+[CS61C Project 4] training performane: 45.59 imgs / sec
+[CS61C Project 4] time elapsed: 7.58 min

@@ -1,0 +1,56 @@
+[CS61C Project 4] start classifier training
+iteration: 0, loss: 2.633331, time: 9.926213 sec
+iteration: 1, loss: 2.630123, time: 8.487690 sec
+iteration: 2, loss: 2.624045, time: 14.748467 sec
+iteration: 3, loss: 2.615407, time: 15.976558 sec
+iteration: 4, loss: 2.604497, time: 16.069460 sec
+iteration: 5, loss: 2.591579, time: 16.562647 sec
+iteration: 6, loss: 2.576898, time: 9.703995 sec
+iteration: 7, loss: 2.560679, time: 8.328848 sec
+iteration: 8, loss: 2.543123, time: 8.233351 sec
+iteration: 9, loss: 2.524416, time: 8.174519 sec
+iteration: 10, loss: 2.504722, time: 16.177605 sec
+iteration: 11, loss: 2.484190, time: 16.230977 sec
+iteration: 12, loss: 2.462954, time: 15.982904 sec
+iteration: 13, loss: 2.441135, time: 16.313356 sec
+iteration: 14, loss: 2.418840, time: 16.601788 sec
+iteration: 15, loss: 2.396163, time: 16.692838 sec
+iteration: 16, loss: 2.373185, time: 16.881157 sec
+iteration: 17, loss: 2.349985, time: 13.136063 sec
+iteration: 18, loss: 2.326627, time: 14.850667 sec
+iteration: 19, loss: 2.303169, time: 13.526079 sec
+iteration: 20, loss: 2.279663, time: 16.731695 sec
+iteration: 21, loss: 2.256154, time: 12.773280 sec
+iteration: 22, loss: 2.232681, time: 9.306488 sec
+iteration: 23, loss: 2.209281, time: 8.675874 sec
+iteration: 24, loss: 2.185983, time: 8.672317 sec
+iteration: 25, loss: 2.162819, time: 8.541603 sec
+iteration: 26, loss: 2.139818, time: 8.536944 sec
+iteration: 27, loss: 2.117003, time: 7.925853 sec
+iteration: 28, loss: 2.094398, time: 8.092115 sec
+iteration: 29, loss: 2.072027, time: 8.005386 sec
+iteration: 30, loss: 2.049914, time: 8.050888 sec
+iteration: 31, loss: 2.028082, time: 8.376537 sec
+iteration: 32, loss: 2.006555, time: 8.617366 sec
+iteration: 33, loss: 1.985353, time: 8.187154 sec
+iteration: 34, loss: 1.964501, time: 8.191959 sec
+iteration: 35, loss: 1.944020, time: 8.007692 sec
+iteration: 36, loss: 1.923935, time: 11.860878 sec
+iteration: 37, loss: 1.904268, time: 12.464545 sec
+iteration: 38, loss: 1.885037, time: 16.630314 sec
+iteration: 39, loss: 1.866256, time: 16.304522 sec
+iteration: 40, loss: 1.847937, time: 13.896092 sec
+iteration: 41, loss: 1.830086, time: 11.881945 sec
+iteration: 42, loss: 1.812706, time: 16.514318 sec
+iteration: 43, loss: 1.795791, time: 16.004130 sec
+iteration: 44, loss: 1.779332, time: 16.004327 sec
+iteration: 45, loss: 1.763316, time: 15.701779 sec
+iteration: 46, loss: 1.747725, time: 16.845750 sec
+iteration: 47, loss: 1.732541, time: 16.207856 sec
+iteration: 48, loss: 1.717740, time: 7.889934 sec
+iteration: 49, loss: 1.703302, time: 16.407436 sec
+[CS61C Project 4] done training
+[CS61C Project 4] test the classifier
+[CS61C Project 4] accuracy: 0.47
+[CS61C Project 4] training performane: 160.28 imgs / sec
+[CS61C Project 4] time elapsed: 10.41 min

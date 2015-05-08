@@ -1,0 +1,60 @@
+[CS61C Project 4] start test for cnn with 4 random images
+  layer 1 forward test: PASS
+  layer 2 forward test: PASS
+  layer 3 forward test: PASS
+  layer 4 forward test: PASS
+  layer 5 forward test: PASS
+  layer 6 forward test: PASS
+  layer 7 forward test: PASS
+  layer 8 forward test: PASS
+  layer 9 forward test: PASS
+  layer 10 forward test: PASS
+  loss test: PASS (37.9595 == 37.9595)
+  param A10 test: PASS
+  param b10 test: PASS
+  param A7 test: PASS
+  param b7 test: PASS
+  param A4 test: PASS
+  param b4 test: PASS
+  param A1 test: PASS
+  param b1 test: PASS
+[CS61C Project 4] start test for cnn with 16 random images
+  layer 1 forward test: PASS
+  layer 2 forward test: PASS
+  layer 3 forward test: PASS
+  layer 4 forward test: PASS
+  layer 5 forward test: PASS
+  layer 6 forward test: PASS
+  layer 7 forward test: PASS
+  layer 8 forward test: PASS
+  layer 9 forward test: PASS
+  layer 10 forward test: PASS
+  loss test: PASS (38.1200 == 38.1200)
+  param A10 test: PASS
+  param b10 test: PASS
+  param A7 test: PASS
+  param b7 test: PASS
+  param A4 test: PASS
+  param b4 test: PASS
+  param A1 test: PASS
+  param b1 test: PASS
+[CS61C Project 4] start test for cnn with 40 random images
+  layer 1 forward test: PASS
+  layer 2 forward test: PASS
+  layer 3 forward test: PASS
+  layer 4 forward test: PASS
+  layer 5 forward test: PASS
+  layer 6 forward test: PASS
+  layer 7 forward test: PASS
+  layer 8 forward test: PASS
+  layer 9 forward test: PASS
+  layer 10 forward test: PASS
+  loss test: PASS (38.0584 == 38.0584)
+  param A10 test: PASS
+  param b10 test: PASS
+  param A7 test: PASS
+  param b7 test: PASS
+  param A4 test: PASS
+  param b4 test: PASS
+  param A1 test: PASS
+  param b1 test: PASS

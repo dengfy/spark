@@ -1,0 +1,236 @@
+[CS61C Project 4] start classifier training
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.70 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.22 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.30 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.35 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.69 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.06 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.09 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.08 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.08 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.29 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.32 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.97 sec 
+iteration: 0, loss: 38.240761, time: 15.666987 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.68 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.21 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.31 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.35 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.69 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.06 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.08 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.07 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.29 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.32 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.97 sec 
+iteration: 1, loss: 38.164332, time: 15.615919 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.68 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.20 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.31 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.34 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.70 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.06 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.08 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.07 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.29 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.31 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.97 sec 
+iteration: 2, loss: 38.020001, time: 15.593414 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.65 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.20 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.31 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.34 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.69 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.06 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.08 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.07 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.29 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.32 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.97 sec 
+iteration: 3, loss: 37.815350, time: 15.574787 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.65 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.21 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.40 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.34 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.68 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.05 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.08 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.06 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.29 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.30 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.98 sec 
+iteration: 4, loss: 37.557360, time: 15.632444 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.67 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.19 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.30 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.34 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.69 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.06 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.08 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.06 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.28 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.30 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.95 sec 
+iteration: 5, loss: 37.252391, time: 15.539614 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.64 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.18 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.30 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.34 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.67 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.05 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.19 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.08 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.06 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.28 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.31 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.96 sec 
+iteration: 6, loss: 36.906323, time: 15.500944 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.67 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.19 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.30 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.34 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.70 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.06 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.09 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.07 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.28 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.30 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.96 sec 
+iteration: 7, loss: 36.524691, time: 15.566165 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.64 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.18 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.29 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.34 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.67 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.05 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.08 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.04 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.28 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.31 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.96 sec 
+iteration: 8, loss: 36.112402, time: 15.445301 sec
+ Layer1: Conv (32 x 32 x 16) forward doen: 1.68 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.19 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 1.19 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 2.31 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.05 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 0.34 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 0.70 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.01 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.06 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.00 sec 
+ Softmax loss calc done : 0.00 sec 
+ Layer10: FC (1 x 1 x 10) backward done: 0.03 sec 
+ Layer9: Pool (4 x 4 x 20) backward done: 0.02 sec 
+ Layer8: ReLU (8 x 8 x 20) backward done: 0.02 sec 
+ Layer7: Conv (8 x 8 x 20) backward done: 1.18 sec 
+ Layer6: Pool (8 x 8 x 20) backward done: 0.08 sec 
+ Layer5: ReLU (16 x 16 x 20) backward done: 0.09 sec 
+ Layer4: Conv (16 x 16 x 20) backward done: 4.07 sec 
+ Layer3: Pool (16 x 16 x 16) backward done: 0.29 sec 
+ Layer2: ReLU (32 x 32 x 16) backward done: 0.30 sec 
+ Layer1: Conv (32 x 32 x 16) backward done: 2.96 sec 
+iteration: 9, loss: 35.673981, time: 15.584802 sec
+[CS61C Project 4] done training
+[CS61C Project 4] validate the classifier
+ Layer1: Conv (32 x 32 x 16) forward doen: 8.56 sec 
+ Layer2: ReLU (32 x 32 x 16) forward done: 0.95 sec 
+ Layer3: Pool (16 x 16 x 16) forward done: 6.12 sec 
+ Layer4: Conv (16 x 16 x 20) forward done: 12.01 sec 
+ Layer5: ReLU (16 x 16 x 20) forward done: 0.26 sec 
+ Layer6: Pool (8 x 8 x 20) forward done: 1.76 sec 
+ Layer7: Conv (8 x 8 x 20) forward: 3.59 sec 
+ Layer8: ReLU (8 x 8 x 20) forward done: 0.06 sec 
+ Layer9: Pool (4 x 4 x 20) forward done: 0.42 sec 
+ Layer10: FC (1 x 1 x 10) forward done: 0.02 sec 
+[CS61C Project 4] accuracy: 0.76
+[CS61C Project 4] time elapsed: 3.16 min
+[CS61C Project 4] training performane: 128.39 imgs / sec

@@ -1,0 +1,25 @@
+[CS61C Project 4] start test for linear with 4 random images
+  layer 1 forward test: PASS
+  loss test: PASS (5.7345 == 5.7345)
+  param A test: PASS
+  param b test: PASS
+[CS61C Project 4] start test for linear with 16 random images
+  layer 1 forward test: PASS
+  loss test: PASS (5.7463 == 5.7463)
+  param A test: PASS
+  param b test: PASS
+[CS61C Project 4] start test for linear with 40 random images
+  layer 1 forward test: PASS
+  loss test: PASS (5.7463 == 5.7463)
+  param A test: PASS
+  param b test: PASS
+[CS61C Project 4] start test for linear with 400 random images
+  layer 1 forward test: PASS
+  loss test: PASS (5.7332 == 5.7332)
+  param A test: PASS
+  param b test: PASS
+[CS61C Project 4] start test for linear with 4000 random images
+  layer 1 forward test: PASS
+  loss test: PASS (5.7377 == 5.7377)
+  param A test: PASS
+  param b test: PASS
